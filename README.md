@@ -5,6 +5,7 @@ MHC-Typer V1.1
 Assigning alleles in multilocus amplification. 
 
 
+
 Requirements:
 
 Windows platform, and .net framework 2.0 runtime library.
